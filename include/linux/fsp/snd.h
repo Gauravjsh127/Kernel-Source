@@ -30,7 +30,7 @@
 #ifndef _LINUX_SND_H
 #define _LINUX_SND_H
 
-#warning snd.h is deprecated.
+//#warning snd.h is deprecated.
 
 #ifdef __KERNEL__
 #include <linux/types.h>
