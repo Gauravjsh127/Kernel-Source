@@ -30,7 +30,7 @@
 #ifndef _ASM_POWERPC_TBUTILS_H_
 #define _ASM_POWERPC_TBUTILS_H_
 
-#warning tbutils.h is deprecated.  Please use ktime_get_ts() or get_tb() instead!
+//#warning tbutils.h is deprecated.  Please use ktime_get_ts() or get_tb() instead!
 
 #include <linux/errno.h>
 #include <asm/reg.h>
